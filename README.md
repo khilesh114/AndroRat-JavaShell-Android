@@ -13,7 +13,10 @@ Clone the Repository
     cd AndroRat-JavaShell-Android
     pip install colorama
 
+ubantu
 
+    sudo apt install python3-colorama
+    
 Run the Setup Script
 
 Execute the setup script to configure the project:
