@@ -59,6 +59,27 @@ Important Notes
 
 Ethical Usage: Ensure you have explicit permission to exploit any Android device. Performing these actions without authorization is illegal and unethical. Only use this tool in a controlled and authorized environment.
 Happy Hunting: Proceed with caution and make sure you're adhering to ethical guidelines.
+Credits
+
+This project is based on the original AndroRAT by karma9874. We acknowledge the hard work and contributions of the original authors and contributors.
+
+Special thanks to:
+
+https://github.com/karma9874/AndroRAT : For developing and maintaining the original AndroRAT project.
+
+If you have any questions or wish to contribute to the original project, please refer to their https://github.com/karma9874/AndroRAT.
+
+Features
+
+Remote control of Android devices
+Access to device features such as camera, microphone, SMS, and call logs
+Manage applications installed on the device
+File management and transfer
+
+
+
+
+
 
 
 
